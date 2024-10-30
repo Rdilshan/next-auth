@@ -1,5 +1,5 @@
 
-import { signOut,signIn } from "@/auth"
+import { signOut, signIn } from "@/auth"
 import { auth } from "../auth"
 
 export default async function Home() {
